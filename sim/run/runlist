@@ -1,0 +1,8 @@
+#! /bin/bash
+
+#make $* TESTNAME=random_data_add_test
+#make $* TESTNAME=order_data_add_test
+#make $* TESTNAME=burst_nodelay_add_test
+#make $* TESTNAME=random_delay_add_test
+
+
